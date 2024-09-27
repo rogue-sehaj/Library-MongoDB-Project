@@ -1,4 +1,5 @@
-import express from 'express';
+import express from "express";
+import { getBooks, addBook, deleteBook } from "../controllers/books";
 const router = express.Router();
 
 router.get("/", getBooks);
