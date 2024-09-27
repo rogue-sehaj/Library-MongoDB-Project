@@ -1,2 +1,2 @@
-<h1 align="center">Library Management Project</h1>
+<h1>Library Management Project</h1>
  
