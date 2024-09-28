@@ -6,7 +6,7 @@ const BorrowerSchema = new mongoose.Schema({
   membershipDate: Date,
   borrowedBooks: [
     {
-      bookId: ObjectId,
+      bookId: String,
       borrowDate: Date,
       dueDate: Date,
       returnDate: Date,

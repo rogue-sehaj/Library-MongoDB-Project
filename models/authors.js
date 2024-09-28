@@ -5,7 +5,7 @@ const AuthorSchema = new mongoose.Schema({
   lastName: String,
   bio: String,
   dateOfBirth: Date,
-  bookIds: [ObjectId], // References to Books
+  bookIds: String, // References to Books
 });
 
 const AuthorModel = mongoose.model("Author", AuthorSchema);
