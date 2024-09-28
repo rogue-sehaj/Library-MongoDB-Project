@@ -42,7 +42,7 @@ This project is a library management system built using [MongoDB](https://www.mo
     npm start
     ```
 
-2. The server will start on `http://localhost:3000`. You can use tools like [Postman](https://www.postman.com/) to interact with the API.
+2. The server will start on `http://localhost:8080`. You can use tools like [Postman](https://www.postman.com/) to interact with the API.
 
 ## Contributing
 
