@@ -42,7 +42,7 @@ This project is a library management system built using [MongoDB](https://www.mo
     npm start
     ```
 
-2. The server will start on `http://localhost:8080`. You can use tools like [Postman](https://www.postman.com/) to interact with the API.
+2. The server will start on `http://localhost:6969`. You can use tools like [Postman](https://www.postman.com/) to interact with the API.
 
 ## Contributing
 
@@ -51,10 +51,6 @@ This project is a library management system built using [MongoDB](https://www.mo
 3. Commit your changes (`git commit -m 'Add some feature'`)
 4. Push to the branch (`git push origin feature-branch`)
 5. Open a Pull Request
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Acknowledgements
 
